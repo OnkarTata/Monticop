@@ -16,5 +16,6 @@ public class FindAlphabetic {
 							}
 				}
 				System.out.println("no of alphabet is"+count);
+		System.out.println("Coments from github teamlead");
 	}
 }
